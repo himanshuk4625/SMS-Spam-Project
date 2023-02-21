@@ -11,6 +11,7 @@ The following files are included in this repository:
 ## SMS_Spam_Project.ipynb: Jupyter notebook containing the code for the project.
 ## README.md: This file.
 ## app.py: Python file for deploying this project using Streamlit
+## vectorizer.pkl , Model.pkl: pickle files for used in app.py file
 # Dependencies
 The code was written in Python 3.10 and requires the following libraries:
 
