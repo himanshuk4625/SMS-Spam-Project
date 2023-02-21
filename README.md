@@ -12,7 +12,7 @@ The following files are included in this repository:
 ## README.md: This file.
 ## app.py: Python file for deploying this project using Streamlit
 # Dependencies
-The code was written in Python 3.9 and requires the following libraries:
+The code was written in Python 3.10 and requires the following libraries:
 
 pandas
 numpy
